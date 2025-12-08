@@ -181,3 +181,5 @@ This project gives full API automation exposure using Cypress, following best pr
 * Clean folder structure
 * CRUD workflow
 * Token-based authentication handling
+
+
